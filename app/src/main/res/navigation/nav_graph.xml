@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/homeFragment">
+
+    <fragment
+        android:id="@+id/homeFragment"
+        android:name="com.example.smssherlar.HomeFragment"
+        android:label="fragment_home"
+        tools:layout="@layout/fragment_home" >
+        <action
+            android:id="@+id/action_homeFragment_to_savedPoemsFragment"
+            app:destination="@id/savedPoemsFragment" />
+        <action
+            android:id="@+id/action_homeFragment_to_newPoemsFragment"
+            app:destination="@id/newPoemsFragment" />
+        <action
+            android:id="@+id/action_homeFragment_to_poemFragment"
+            app:destination="@id/poemFragment" />
+        <action
+            android:id="@+id/action_homeFragment_to_savedPoemsFragment2"
+            app:destination="@id/savedPoemsFragment" />
+        <action
+            android:id="@+id/action_homeFragment_to_poemFragment2"
+            app:destination="@id/poemFragment" />
+        <action
+            android:id="@+id/action_homeFragment_to_newPoemsFragment2"
+            app:destination="@id/newPoemsFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/savedPoemsFragment"
+        android:name="com.example.smssherlar.SavedPoemsFragment"
+        android:label="fragment_saved_poems"
+        tools:layout="@layout/fragment_saved_poems" />
+    <fragment
+        android:id="@+id/newPoemsFragment"
+        android:name="com.example.smssherlar.NewPoemsFragment"
+        android:label="fragment_new_poems"
+        tools:layout="@layout/fragment_new_poems" />
+    <fragment
+        android:id="@+id/poemFragment"
+        android:name="com.example.smssherlar.PoemFragment"
+        android:label="fragment_poem"
+        tools:layout="@layout/fragment_poem" />
+</navigation>

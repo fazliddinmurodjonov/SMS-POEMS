@@ -1,0 +1,185 @@
+<resources>
+    <string name="app_name">SMS She’rlar</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="example_poem">
+        Ko’zlarim ko’r bo’lsa, ko’rmasdim seni,
+        Yuragim tosh bo’lsa, sevmasdim seni,
+        Mayli xijron azobi qiynasin meni,
+        O’lsam ham baribir sevaman seni!</string>
+
+    <string name="love_1">Meni aldash mushkul, aldamoq qiyin,
+Har so‘zing manosin anglayman bir- bir,
+Aldaysan, avraysan, qilib so‘z o‘yin,
+Aytgim kelar goho toshlaringni ter.
+
+Aqlim yuz bursa ham sendan teskari,
+Qalbim talabiga ojiz turaman.
+Bilaman…., so‘zlaring yolg‘ondir, ammo
+Senga aldanishni yaxshi ko‘raman.</string>
+    <string name="love_2">Bir kuni sabrlar sel bo‘lib toshar
+Bir kuni soatlar yel kabi shoshar..
+Bir kuni sog‘inchlar haddidan oshar
+Yoningga g‘ururim otib boraman!
+
+Bir kuni izzatim izimda qolib
+Bir kuni hurmatim o‘zidan tolib..
+Bir kuni qasamim, qasdidan tonib
+Yoningga qadrimni sotib boraman!
+
+Bir kuni gullaydi bahor uyimda
+Bir kuni gullaydi baxtlar o‘yimda..
+Bir kuni yengilgan sevgi to‘yimda
+Umrimga oq libos kiyib boraman!
+
+Bir kuni qadahlar yana to‘qnashar
+Bir kuni g‘animlar so‘zsiz, sirlashar..
+Bir kuni ko‘nglimga kimsa yonlashar
+Dam-badam o‘zimdan cho‘chib boraman!
+
+
+Borsam ham Xudodan so‘rab boraman!</string>
+    <string name="love_3">Sizda hech narsani so‘ramay sevdim,
+Arzimas ozgina mehrdan bo‘lak.
+Men kuyunmay sevdim, achinmay sevdim..
+Sizga bo‘lganidan yuragim yo‘lak!
+
+Sizga boqmay sevdim hattoki bir bor,
+Ko‘zlarim ashkini qilmayin oshkor.
+Sizga dunyosini alishmay sevdim,
+Dunyolar poyimga keldilar takror.
+
+Sizga to‘ymay sevdim, to‘yolmay sevdim,
+To‘ydi o‘jarligim ko‘tarib hayot.
+Siz tomonlarga yo‘l yurolmay sevdim,
+Hamon siz tomonga yuradi xayol.
+
+
+</string>
+    <string name="love_4">
+        O‘tsa ham qancha yillar,
+Unda ekan hayoling.
+Unutilmas ekanda,
+Chindan sevgan insoning.
+
+Qo‘msab qolasan yana,
+O‘sha baxtli kunlarni
+Qadri bo‘lak ekanda,
+O‘sha bedor tunlarni.
+
+Ko‘zlarini izlaysan.
+So‘zlarini eslaysan,
+Unutolmay, yoningda,
+Bo‘lishini xohlaysan.
+
+Unutdim deysan asta,
+Aslida yurak qo‘msar.
+Yoniga boray deysan,
+Gʻururing yo‘ling to‘sar.
+
+Ha u boshqacha edi,
+Endi alam qilasan.
+Uni chindan sevganing,
+Kech bo‘lganda bilasan.
+
+O‘tsa ham qancha yillar,
+Unda ekan hayoling.
+Unutilmas ekanda,
+Chindan sevgan insoning.</string>
+    <string name="love_5">Kunduzimda kulib turgan quyoshim siz,
+Kechalarim yoritgan oy o‘zingizsiz.
+Bu olamda eng yaqinim sirdoshim siz,
+Yurakkinam talpingan joy o‘zingizsiz.
+
+Xarsang kabi qalbim zumda bog‘ aylagan,
+Qor yog‘guvchi qabog‘imni chog‘ aylagan,
+Tabassumla kayfiyatim tog‘ aylagan,
+Ishq dardiga shifokorim o‘zingizsiz.
+
+Af etasiz bersam xam ko‘p sizga ozor,
+Kamdir sizga jonim qurbon qilay ming bor.
+Ko‘z yoshlarim tiyolmasdan bitdim ash’or,
+Menga cheksiz mexribonim o‘zingizsiz.
+</string>
+    <string name="miss_1">
+Sog`inib-sog`inib charchadim oxir,
+Izlay-izlay topmadim baribir.
+Lek dunyoda nimamdir kamdir,
+Sog`inib-sog`inib yashadim axir.
+Uchgim kelar xar on sen tomon,
+Yo‘llarimni to‘sadi g`ovlar.
+Kimdir xavas, kimdir xasad-la boqar
+Sog`inib-sog`inib yashadim axir.
+Ko‘zlarimdan tommasa yoshlar,
+Pok sevgiga egilmasa boshlar,
+Muxabbat yurakda g`alayon boshlar,
+Sog`inib-sog`inib yashadim axir.
+    </string>
+    <string name="miss_2">
+        Yillar o`tib oradan
+Yana seni uchratdim
+Chiqargandim yodimdan
+Yana qalbim yig`latdim
+
+Yoningda begona bor
+O`tayapsan yonimdan
+Bu sevgining azobi
+O`tib ketdi jonimdan
+
+Nega seni unutganda
+Yana ko`raveraman
+Mendan ketgan bo`lsang ham
+Nega sevaveraman
+    </string>
+    <string name="miss_3">
+Sogʻinib eslab qolaman
+Yuragimni qoʻlaga olaman
+Azoblarga koʻmilib bir kun
+Bu dunyodan sensiz oʻtaman
+
+Olamu jahon guvox
+Butun koyinot guvox
+Sensizlikka oʻrganmaydi dil
+Shu dunyodan yolgʻiz oʻtaman
+
+Jonga tegdi tashvishlarim xam
+Erga tegdi goʻzal yorim xam
+Ey xudoyim senga savolim
+Qachon tugar azoblarim xam
+    </string>
+    <string name="miss_4">
+        Mendan o`tdi asli xatolik
+Sizga bir so`z aytgim keladi
+Boshim egib uzurim aytib
+Yoningizga qaytgim keladi
+
+Xar kun yig`lab eslayman sizni
+Xar kun ingrab qo`msayman sizni
+Tushlarimdan izlayman sizni
+Yoningizga qaytgim keladi
+
+Biz tufayli ayrodur yo`llar
+Biz tufayli ayrodur dillar
+Yuzlarimdan oqmoqda sellar
+Yoningizga qaytgim keladi
+    </string>
+
+    <string name="miss_5">
+Qoldi olislarda o`yu xislarim,
+O`chirib tashladi taqdir izlarim,
+Visoling sog`inib toldi ko`zlarim,
+Meni eslaysanmi ? eslaysanmi yor.
+
+Eslaysanmi har kun kutganlarimni,
+Avaylab qo`lingdan tutganlarimni,
+Yuzingdan ohista o`pganlarimni,
+Meni eslaysanmi ? eslaysanmi yor.
+
+Bizni sevgimizga bo`ldilar qarshi,
+Qiyin ekan netay bu ko`ngil ishi,
+Tushunmadi hech kim na yaqin kishi,
+Meni eslaysanmi ? eslaysanmi yor.
+    </string>
+    
+    
+</resources>
